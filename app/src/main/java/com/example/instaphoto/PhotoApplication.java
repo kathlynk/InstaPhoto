@@ -36,9 +36,12 @@ public class PhotoApplication extends Application {
 
 
 
+        /**
+
         // New test creation of object below
-        ParseObject testObject = new ParseObject("TestObject");
-        testObject.put("foo", "bar");
-        testObject.saveInBackground();
+        ParseObject testObject = new ParseObject("Task");
+        testObject.put("username", "rick");
+        testObject.put();
+        testObject.saveInBackground();  **/
     }
 }
