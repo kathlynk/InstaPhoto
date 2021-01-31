@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/sSkdTy03v6FWzrnFX0/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://github.com/ahans03/flix_app/blob/master/flixApp2.gif" width=250><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
